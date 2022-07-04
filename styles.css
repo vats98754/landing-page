@@ -208,7 +208,7 @@ footer {
     display: flex;
     width: auto;
     justify-content: space-between;
-    align-items: flex-end;
+    align-items: center;
     background-color: #3882F6;
     margin-left: 200px;
     margin-right: 200px;
@@ -225,6 +225,7 @@ footer {
 .appeal-left {
     display: flex;
     flex-direction: column;
+    width: 500px;
     gap: 5px;
 }
 
